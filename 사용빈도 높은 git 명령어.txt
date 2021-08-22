@@ -1,0 +1,32 @@
+사용빈도가 높은 git 명령어
+commit
+push
+pull
+clone
+checkout
+add
+branch
+log
+diff
+fetch
+merge
+init
+status
+reset
+tag
+rebase
+rm
+show
+bisect
+grep
+mv
+
+GitFlow : 소프트웬어의 소스코드를 관리하고 출시히가 위한 '브랜치 관린 전략' 중 하나
+매인브랜치(master, develp) : 항상 유지
+보조브랜치(feature, realease, hotfix) : 일정 기간 유지
+
+Master - 제품으로 출시 되는 브랜치
+Develop - 다음 출시 버전을 개발하는 브랜치
+Feature - 기능을 개발하는 브랜치
+Realease - 이번 출시 버전을 준비하는 브랜치
+Hotfix - 출시 버전에서 발생한 버그를 수정하는 브랜치
