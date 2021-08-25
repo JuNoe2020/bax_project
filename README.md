@@ -11,4 +11,4 @@
 - [영상]소스트리 사용법 : [Click](https://www.youtube.com/watch?v=8AtHcXnJSdA&list=PLAHa1zfLtLiPrxoBo9a1HVmauvE2Mn3xX&ab_channel=%EC%BD%94%EB%93%9C%EC%8A%A4%EC%BF%BC%EB%93%9C)
 - 소스트리 설치방법 : [https://uxgjs.tistory.com/181](https://uxgjs.tistory.com/181)
 - [영상]깃허브 이슈 작성 : [Click](https://www.youtube.com/watch?v=nisqr73mjOo&list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7&index=6&ab_channel=%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)
-- 개발자 깃허브 관리 노하우 : (https://medium.com/returnvalues/)https://medium.com/returnvalues/%EC%9A%B0%EB%A6%AC%EB%8A%94-github%EB%A5%BC-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4-83789075e5b6
+- 개발자 깃허브 관리 노하우 : [https://medium.com/returnvalues](https://medium.com/returnvalues/%EC%9A%B0%EB%A6%AC%EB%8A%94-github%EB%A5%BC-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4-83789075e5b6)
